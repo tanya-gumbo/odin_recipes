@@ -1,0 +1,32 @@
+*{
+    background-color: #D7D0C2;
+}
+
+h1{
+    color:black;
+    font-family: "Papyrus", monospace;
+    font-size:40px;
+    font-weight: 200;
+}
+
+h4{
+  font-family: "Papyrus", monospace;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+ul{
+  font-family: Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+ol{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+a{
+    margin:5px;
+}
+
+img{
+    border: 5px solid grey;
+}
